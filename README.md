@@ -10,3 +10,6 @@ python scrape.py
 ```
 Will run program. Search for any artist, and wait for YouTube links of songs that are similar to songs this artist has samples.
 
+
+## Example
+Examples can be found of [similar samples to J Dilla](./output/j_dilla_10.txt).
