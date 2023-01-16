@@ -6,7 +6,7 @@
 
 ## Usage
 
-**Create & export spotify API keys**.\
+**Create & export spotify API keys**
 ```
 export SPOTIPY_CLIENT_ID='your-spotify-client-id'
 export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
