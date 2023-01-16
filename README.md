@@ -1,8 +1,8 @@
 # SoundLike
 ## How does it work?
-+ Scrape WhoSampled for a given artist's samples.
-+ Use Spotify API to find similar songs (recommendations) based on these songs.
-+ YouTube links are provided for the found songs for easy and free listening.
+1. Scrape WhoSampled for a given artist's samples.
+2. Use Spotify API to find similar songs (recommendations) based on these songs.
+3. YouTube links are provided for the found songs for easy and free listening.
 
 ## Usage
 ```
