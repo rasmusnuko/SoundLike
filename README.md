@@ -5,6 +5,18 @@
 3. YouTube links are provided for the found songs for easy and free listening.
 
 ## Usage
+Create spotify API keys, and export them as:
+```
+export SPOTIPY_CLIENT_ID='your-spotify-client-id'
+export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
+export SPOTIPY_REDIRECT_URI='your-app-redirect-url'
+```
+[Learn more](https://spotipy.readthedocs.io/en/2.22.0/) (Go to 'Quick start').
+
+```
+pip install -r requirements.txt
+```
+
 ```
 python scrape.py
 ```
