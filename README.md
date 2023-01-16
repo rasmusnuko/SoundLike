@@ -13,10 +13,12 @@ export SPOTIPY_REDIRECT_URI='your-app-redirect-url'
 ```
 [Learn more](https://spotipy.readthedocs.io/en/2.22.0/) (Go to 'Quick start').
 
+**Install requirements**
 ```
 pip install -r requirements.txt
 ```
 
+**Run program**
 ```
 python scrape.py
 ```
