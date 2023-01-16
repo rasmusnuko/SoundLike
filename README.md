@@ -1,7 +1,8 @@
 # SoundLike
 ## How does it work?
-This programs scrapes WhoSampled for a given artist's samples, then uses spotify's API to find similar songs (recommendations) based on these songs.\
-YouTube links are provided for the found songs for easy and free listening.
++ Scrape WhoSampled for a given artist's samples.
++ Use Spotify API to find similar songs (recommendations) based on these songs.
++ YouTube links are provided for the found songs for easy and free listening.
 
 ## Usage
 ```
